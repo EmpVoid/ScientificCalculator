@@ -56,8 +56,8 @@
             android:id="@+id/btnPercent"
             android:text="%"/>
         <Button
-            android:id="@+id/btnExit"
-            android:text="Exit"/>
+            android:id="@+id/btnBack"
+            android:text="Back"/>
 
     </GridLayout>
 

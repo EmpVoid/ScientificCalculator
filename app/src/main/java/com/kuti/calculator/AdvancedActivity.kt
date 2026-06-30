@@ -100,7 +100,7 @@ class ScientificActivity : AppCompatActivity() {
                 tvResult.text = result.toString()
             }
         }
-        findViewById<Button>(R.id.btnExit).setOnClickListener {
+        findViewById<Button>(R.id.btnBack).setOnClickListener {
             finish()
         }
     }
